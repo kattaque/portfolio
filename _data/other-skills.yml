@@ -1,6 +1,10 @@
 - name: Tableau
   percentage: 85
   color: info
+  
+- name: HTML5/CSS3
+  percentage: 80
+  color: info 
 
 - name: Adobe Photoshop
   percentage: 75
