@@ -1,7 +1,7 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
-image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/YoussefRaafatNasry
+name: MetaHockey
+tools: [R, Python, Javascript, HTML, CSS]
+image: http://metahockey.com/wp-content/uploads/2018/09/cropped-logo-2.png
+description: A hockey analytics repository where I volunteer as site editor.
+external_url: http://metahockey.com/publications/articles/
 ---
