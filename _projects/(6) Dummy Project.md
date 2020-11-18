@@ -1,8 +1,8 @@
 ---
 name: Drench
 tools: [JavaScript, HTML, CSS]
-image: 
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+image: https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/944/728/datas/original.png
+description: This project was created for Pearl Hacks 2020 with help from my teammates LeAnn Lo, Elise Mai, and ChiChi Ugo to help bring more accessible gaming to public access. 
 ---
 
 # drench
