@@ -1,11 +1,11 @@
 ### Site Settings ###
 title               : My Portfolio
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Hello! My name is Katerina and this is my portfolio site. 
+                      Head on over to my About Page to learn more about me, 
+                      or puruse my projects page to see what work I've done previously.
 baseurl             : "/portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : kattaque/portfolio     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : kattaque/portfolio.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
